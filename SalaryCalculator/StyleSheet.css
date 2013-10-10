@@ -1,2 +1,18 @@
 ﻿body {
+    font-family: "Times New Roman", Arial, Verdana, Tahoma;
+    background-color:#0026ff;
+    margin-top: 20px;
 }
+
+.auto-style1 {
+            width: 70%;
+            height: 400px;
+            border:thin;
+            width: 900px;
+            margin: auto;
+            background-color:#ff6a00 ;
+            padding:20px;
+            box-shadow: 10px 10px 5px black;   
+            
+}
+
