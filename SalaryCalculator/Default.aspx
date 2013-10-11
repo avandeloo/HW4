@@ -48,30 +48,39 @@
                 <td class="auto-style15" colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
         Salary Calculator</td>
+                <td class="auto-style15">&nbsp;</td>
             </tr>
             <tr>
                 <td class="auto-style15">Hours Worked: </td>
                 <td class="auto-style16">
                     <asp:TextBox ID="HoursTB" runat="server"></asp:TextBox>
                 </td>
+                <td class="auto-style16">
+                    &nbsp;</td>
             </tr>
             <tr>
                 <td class="auto-style15">Hourly Rate: </td>
                 <td class="auto-style16">
                     <asp:TextBox ID="HourlyRateTB" runat="server"></asp:TextBox>
                 </td>
+                <td class="auto-style16">
+                    &nbsp;</td>
             </tr>
             <tr>
                 <td class="auto-style15">Pre-Tax Deduction:</td>
                 <td class="auto-style16">
                     <asp:TextBox ID="PreTaxTB" runat="server"></asp:TextBox>
                 </td>
+                <td class="auto-style16">
+                    &nbsp;</td>
             </tr>
             <tr>
                 <td class="auto-style15">After-Tax Deduction:</td>
                 <td class="auto-style16">
                     <asp:TextBox ID="AfterTaxTB" runat="server"></asp:TextBox>
                 </td>
+                <td class="auto-style16">
+                    &nbsp;</td>
             </tr>
             <tr>
                 <td class="auto-style10">
@@ -82,12 +91,16 @@
                     <br />
                     <asp:Button ID="ClearBtn" runat="server" Text="Clear" />
                 </td>
+                <td class="auto-style19">
+                    &nbsp;</td>
             </tr>
             <tr>
                 <td class="auto-style18">Net Pay:</td>
                 <td class="auto-style19">
                     <asp:Label ID="ResultLBL" runat="server"></asp:Label>
                 </td>
+                <td class="auto-style19">
+                    &nbsp;</td>
             </tr>
         </table>
  </div>
